@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![MCP Financial Analyst Architecture](image.jpg)
+![MCP Financial Analyst Architecture](Screenshot 2025-07-22 164135.png)
 
 A sophisticated financial analysis system built using the Model Context Protocol (MCP) that leverages multiple AI agents to provide comprehensive financial insights and data visualization.
 
